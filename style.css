@@ -201,3 +201,69 @@ ul {
     margin-left: 5px;
     cursor: pointer;
 }
+
+.popular_prod {
+    width: 1440px;
+    height: 40px;
+    margin: auto;
+    margin-top: 62px;
+    display: flex;
+}
+
+.popular_text {
+    padding-left: 72px;
+    font-weight: 1000;
+    font-size: 34px;
+}
+
+.view_alls {
+    padding-left: 909px;
+    font-weight: 1000;
+    margin-top: 14px;
+}
+
+#view-alls-img {
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.twophones {
+    gap: 22px;
+    margin: auto;
+    margin-top: 35px;
+    width: 1440px;
+    display: flex;
+}
+
+.iphone12 {
+    width: 764px;
+    height: 386px;
+    border-radius: 6px;
+    background: #F2F2F2;
+    margin-left: 76px;
+    gap: 59px;
+    display: flex;
+}
+
+.xbox_series {
+    width: 764px;
+    height: 386px;
+    border-radius: 6px;
+    background: #F2F2F2;
+}
+
+#Iphone-imgg {
+    width: 236px;
+    height: 352px;
+    flex-shrink: 0;
+}
+
+.textdivv {
+    display: flex;
+}
+
+.smartphone_text {
+    font-weight: 1000;
+    color: #717171;
+    margin-top: 89px;
+}
